@@ -1,0 +1,2 @@
+# ariue
+rails app
